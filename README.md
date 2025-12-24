@@ -1,4 +1,4 @@
-# tharaka_lakshan_37
+# food recipe app
 ![login](https://github.com/tharakal352/tharakalakshan-37/assets/126232613/ffec17bf-40a0-4e91-9f19-2060ab7f0cd7)
 ![create recipe)](https://github.com/tharakal352/tharakalakshan-37/assets/126232613/f8270e6f-e1d6-448f-9d1a-f7e0ac56a92b)
 ![create recipe page)](https://github.com/tharakal352/tharakalakshan-37/assets/126232613/b8a26dd1-f8e3-4bc4-a181-aa01a3b6e400)
